@@ -4,16 +4,16 @@ import CountUp from "react-countup";
 import { useEffect, useState } from "react";
 
 const statsPT = [
-  { num: 1, text: "Ano de experiência" },
-  { num: 2, text: "Projetos concluídos" },
-  { num: 8, text: "Tecnologias aprendidas" },
+  { num: 3, text: "Ano de experiência" },
+  { num: 5, text: "Projetos concluídos" },
+  { num: 12, text: "Tecnologias aprendidas" },
   { num: 3, text: "Cursos e Formações" },
 ];
 
 const statsEN = [
-  { num: 1, text: "Years of Experience" },
-  { num: 2, text: "Completed Projects" },
-  { num: 8, text: "Technologies Learned" },
+  { num: 3, text: "Years of Experience" },
+  { num: 5, text: "Completed Projects" },
+  { num: 12, text: "Technologies Learned" },
   { num: 3, text: "Courses and Training" },
 ];
 
