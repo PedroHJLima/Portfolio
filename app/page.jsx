@@ -82,7 +82,7 @@ const Home = () => {
       <div className="container mx-auto h-full flex items-center justify-center relative z-10"> {/* z-10 para garantir que fique acima da sobreposição */}
         <div className="flex flex-col xl:flex-row items-center justify-between xl:pt-8 xl:pb-24">
           <div className="text-center xl:text-left order-2 xl:order-none">
-            <span className="text-xl">{language === "PT" ? "Game Designer e Desenvolvedor Unity" : "Game Designer and Unity Developer"}</span>
+            <span className="text-xl">{language === "PT" ? "Desenvolvedor Full-Stack" : "Full-Stack Developer"}</span>
             <h1 className="h1 mb-6">
             {language === "PT" ? "Olá! Eu sou " : "Hello! I'm "}<br /> <span className="text-accent">Pedro Lima</span>
             </h1>

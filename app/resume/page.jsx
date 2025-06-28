@@ -16,7 +16,7 @@ import { useEffect,useState } from "react";
 const aboutPT = {
   title: "Sobre mim",
   description:
-    "Trabalhando para soluções inovadoras",
+    "Trabalhando para me desenvolver profissionalmente e criar soluções inovadoras para problemas reais",
   info: [
     {
       fieldName: "Nome",
@@ -28,7 +28,7 @@ const aboutPT = {
     },
     {
       fieldName: "Experiência",
-      fieldValue: "1 Ano",
+      fieldValue: "3 Anos",
     },
     {
       fieldName: "Idiomas",
@@ -51,7 +51,7 @@ const aboutEN = {
     },
     {
       fieldName: "Experience",
-      fieldValue: "1 Year",
+      fieldValue: "3 Years",
     },
     {
       fieldName: "Languages",

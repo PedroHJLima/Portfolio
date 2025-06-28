@@ -29,7 +29,7 @@ const projectsPT = [
     stack: [{ name: "C#" }, { name: "Game Design" }, { name: "Efeitos Visuais" }],
     image: "/assets/work/unity1.png",
     live: "",
-    github: "",
+    github: "https://github.com/PedroHJLima",
   },
   {
     num: "02",
@@ -40,7 +40,7 @@ const projectsPT = [
     stack: [{ name: "C#" }, { name: "Animações" }, { name: "Agile work" }],
     image: "/assets/work/SvH.png",
     live: "",
-    github: "",
+    github: "https://github.com/PedroHJLima",
   },
   {
     num: "03",
@@ -51,7 +51,7 @@ const projectsPT = [
     stack: [{ name: "SAP" }, { name: "Mobile" }, { name: "ReactNative" }],
     image: "/assets/work/CrmOne.png",
     live: "",
-    github: "",
+    github: "https://github.com/PedroHJLima",
   },
 ];
 
@@ -65,7 +65,7 @@ const projectsEN = [
     stack: [{ name: "C#" }, { name: "Game Design" }, { name: "Visual Effects" }],
     image: "/assets/work/unity1.png",
     live: "",
-    github: "",
+    github: "https://github.com/PedroHJLima",
   },
   {
     num: "02",
@@ -76,7 +76,7 @@ const projectsEN = [
     stack: [{ name: "C#" }, { name: "Animações" }, { name: "Agile work" }],
     image: "/assets/work/SvH.png",
     live: "",
-    github: "",
+    github: "https://github.com/PedroHJLima",
   },
   {
     num: "03",
@@ -87,7 +87,7 @@ const projectsEN = [
     stack: [{ name: "SAP" }, { name: "Mobile" }, { name: "ReactNative" }],
     image: "/assets/work/CrmOne.png",
     live: "",
-    github: "",
+    github: "https://github.com/PedroHJLima",
   },
 ];
 
