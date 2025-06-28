@@ -92,7 +92,7 @@ const Home = () => {
               
             </p>
             <div className="flex flex-col xl:flex-row items-center gap-8">
-              <a href="/PedroLimaCD.pdf" target="_blank" rel="noopener noreferrer">
+              <a href="/PedroLimaCurriculo.pdf" target="_blank" rel="noopener noreferrer">
                 <Button>{language === "PT" ? "Currículo":"Resume"} </Button>
               </a>
               <div className="mb-8 xl:mb-0">
