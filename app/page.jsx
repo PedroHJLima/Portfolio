@@ -92,8 +92,8 @@ const Home = () => {
               
             </p>
             <div className="flex flex-col xl:flex-row items-center gap-8">
-              <a href="/PedroLimaCurriculo.pdf" target="_blank" rel="noopener noreferrer">
-                <Button>{language === "PT" ? "Currículo":"Resume"} </Button>
+              <a href="https://wa.me/51993337557" target="_blank" rel="noopener noreferrer">
+                <Button>{language === "PT" ? "Contato":"Contact"} </Button>
               </a>
               <div className="mb-8 xl:mb-0">
                 <Social
