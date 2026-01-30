@@ -70,7 +70,7 @@ const experiencePT = {
     {
       company: "Kreativitas",
       position: "Desenvolvedor Unity",
-      duration: "2024 - Atual",
+      duration: "2025 - 2025",
     },
     {
       company: "DWU - It Solutions",
@@ -98,7 +98,7 @@ const experienceEN = {
     {
       company: "Kreativitas",
       position: "Unity Developer",
-      duration: "2024 - Present",
+      duration: "2025 - 2025",
     },
     {
       company: "DWU - It Solutions",
